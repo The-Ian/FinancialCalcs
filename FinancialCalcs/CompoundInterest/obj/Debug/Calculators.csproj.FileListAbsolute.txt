@@ -1,0 +1,22 @@
+c:\users\cyberadmin\documents\visual studio 2017\Projects\FinancialCalcs\CompoundInterest\bin\Debug\CompoundInterest.exe.config
+c:\users\cyberadmin\documents\visual studio 2017\Projects\FinancialCalcs\CompoundInterest\bin\Debug\CompoundInterest.exe
+c:\users\cyberadmin\documents\visual studio 2017\Projects\FinancialCalcs\CompoundInterest\bin\Debug\CompoundInterest.pdb
+c:\users\cyberadmin\documents\visual studio 2017\Projects\FinancialCalcs\CompoundInterest\obj\Debug\Calculators.csprojResolveAssemblyReference.cache
+c:\users\cyberadmin\documents\visual studio 2017\Projects\FinancialCalcs\CompoundInterest\obj\Debug\CompoundInterest.CompoundInterest.resources
+c:\users\cyberadmin\documents\visual studio 2017\Projects\FinancialCalcs\CompoundInterest\obj\Debug\CompoundInterest.Mortgage.resources
+c:\users\cyberadmin\documents\visual studio 2017\Projects\FinancialCalcs\CompoundInterest\obj\Debug\CompoundInterest.Properties.Resources.resources
+c:\users\cyberadmin\documents\visual studio 2017\Projects\FinancialCalcs\CompoundInterest\obj\Debug\Calculators.csproj.GenerateResource.Cache
+c:\users\cyberadmin\documents\visual studio 2017\Projects\FinancialCalcs\CompoundInterest\obj\Debug\CompoundInterest.exe
+c:\users\cyberadmin\documents\visual studio 2017\Projects\FinancialCalcs\CompoundInterest\obj\Debug\CompoundInterest.pdb
+C:\Users\MTCStudent\Desktop\C# Stuff\FinancialCalcs\CompoundInterest\bin\Debug\CompoundInterest.exe.config
+C:\Users\MTCStudent\Desktop\C# Stuff\FinancialCalcs\CompoundInterest\bin\Debug\CompoundInterest.exe
+C:\Users\MTCStudent\Desktop\C# Stuff\FinancialCalcs\CompoundInterest\bin\Debug\CompoundInterest.pdb
+C:\Users\MTCStudent\Desktop\C# Stuff\FinancialCalcs\CompoundInterest\obj\Debug\Calculators.csprojResolveAssemblyReference.cache
+C:\Users\MTCStudent\Desktop\C# Stuff\FinancialCalcs\CompoundInterest\obj\Debug\CompoundInterest.CompoundInterest.resources
+C:\Users\MTCStudent\Desktop\C# Stuff\FinancialCalcs\CompoundInterest\obj\Debug\CompoundInterest.Mortgage.resources
+C:\Users\MTCStudent\Desktop\C# Stuff\FinancialCalcs\CompoundInterest\obj\Debug\CompoundInterest.Properties.Resources.resources
+C:\Users\MTCStudent\Desktop\C# Stuff\FinancialCalcs\CompoundInterest\obj\Debug\Calculators.csproj.GenerateResource.Cache
+C:\Users\MTCStudent\Desktop\C# Stuff\FinancialCalcs\CompoundInterest\obj\Debug\Calculators.csproj.CoreCompileInputs.cache
+C:\Users\MTCStudent\Desktop\C# Stuff\FinancialCalcs\CompoundInterest\obj\Debug\CompoundInterest.exe
+C:\Users\MTCStudent\Desktop\C# Stuff\FinancialCalcs\CompoundInterest\obj\Debug\CompoundInterest.pdb
+C:\Users\MTCStudent\Desktop\C# Stuff\FinancialCalcs\CompoundInterest\obj\Debug\CompoundInterest.ReferencesandHelp.resources
